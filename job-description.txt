@@ -1,0 +1,48 @@
+Job Title: Senior Data Scientist
+Location: Hybrid – Berlin, Germany or Remote (within CET±2)
+Job Type: Full-time
+Experience Level: Senior
+
+About Us:
+At Nimbus 2000 Technologies, we build cutting-edge digital solutions that serve billions of users worldwide. Our platforms span cloud services, e-commerce, machine learning infrastructure, and consumer applications used by millions daily. We believe in data as the foundation of smart decision-making and innovation. Our global team thrives on curiosity, collaboration, and continuous learning.
+
+Position Overview:
+We are looking for a Senior Data Scientist to join our centralized Data Science & Analytics team. In this role, you will lead complex analytical projects from ideation to production. You’ll partner closely with product managers, engineers, and business stakeholders to drive insights, influence strategy, and build intelligent data products that scale.
+
+Responsibilities:
+	•	Lead end-to-end data science projects including problem scoping, data exploration, modeling, and implementation
+	•	Develop predictive models, classification systems, and optimization algorithms using machine learning and statistical methods
+	•	Collaborate with data engineering to structure robust data pipelines and clean, scalable datasets
+	•	Communicate findings through compelling storytelling, dashboards, and presentations to non-technical stakeholders
+	•	Mentor junior data scientists and contribute to internal best practices and research
+
+Required Skills and Qualifications:
+	•	5+ years of hands-on experience in data science, machine learning, or related fields
+	•	Proficiency in Python and data science libraries (e.g., pandas, NumPy, scikit-learn, TensorFlow or PyTorch)
+	•	Strong SQL skills and experience with large-scale datasets (e.g., BigQuery, Redshift)
+	•	Experience building and deploying ML models in production environments
+	•	Solid understanding of statistics, experimental design (A/B testing), and data storytelling
+	•	Experience with cloud platforms such as AWS, GCP, or Azure
+	•	Excellent communication and cross-functional collaboration skills
+	•	Master’s or PhD in Computer Science, Statistics, Applied Mathematics, or similar field
+
+Nice-to-Have:
+	•	Experience with recommendation systems, NLP, or deep learning architectures
+	•	Familiarity with data versioning, MLOps tools (e.g., MLflow, Airflow, Kubeflow)
+	•	Contributions to open-source or technical blogs
+
+What We Offer:
+	•	Competitive compensation package with annual bonus and stock options
+	•	Flexible working hours and hybrid/remote work options
+	•	30 vacation days per year
+	•	Relocation support if applicable
+	•	Annual personal development budget (€2,000/year)
+	•	Health & wellness stipend, gym memberships, mental health resources
+	•	Free lunch at Berlin HQ, team events, hackathons, and a strong learning culture
+
+How to Apply:
+Please submit your resume, a short cover letter, and links to any relevant projects (e.g., GitHub, Kaggle, blog posts).
+
+⸻
+
+Let me know if you want a version tailored for a real company like Google, Amazon, or Microsoft.

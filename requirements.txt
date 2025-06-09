@@ -1,0 +1,5 @@
+langgraph
+gradio[mcp]
+docling
+langchain-openai
+langchain-google-genai
