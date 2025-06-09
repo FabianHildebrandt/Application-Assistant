@@ -29,6 +29,13 @@ This project demonstrates the power of **multi-agent collaboration** powered by 
 
 Whether you're writing a compelling cover letter, preparing for an interview, or polishing your CV, **Application Assistant** is here to help.
 
+
+
+
+https://github.com/user-attachments/assets/4f17e8f7-8993-40bb-9de1-ce72c0cab473
+
+
+
 ## 🤖 What Can It Do?
 
 - 📝 **Cover Letter Generator:** Draft, refine, and customize cover letters tailored to specific job roles.
