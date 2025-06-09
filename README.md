@@ -1,6 +1,7 @@
 ---
 title: Application Assistant
 emoji: 🦛
+sdk: gradio
 sdk_version: 5.33.0
 app_file: app.py
 fullWidth: true
@@ -58,7 +59,24 @@ These agents communicate and collaborate via a central orchestrator.
 ### 🔧 Prerequisites
 - Python installed
 - `pip` installed
-- Google AI API key -> [Get a free API key](https://ai.google.dev/gemini-api/docs/api-key)
+- Google AI / NEXUS API key -> [Get a free API key](https://ai.google.dev/gemini-api/docs/api-key)
+
+### 🔐 API Key Configuration
+
+To enable communication with large language models (LLMs), this application requires an API key. You can use either the Google GenAI API or the Nebius API. Feel free to fork this repository to integrate additional [chat models](https://python.langchain.com/docs/integrations/chat/) as needed.
+
+If you choose to use the Google GenAI API, you must set the following environment variables:
+	•	GOOGLE_API_KEY: Your Google API key (required)
+	•	GOOGLE_DEPLOYMENT_NAME: The specific model deployment name (optional; defaults to gemini-2.0-flash)
+
+You can find the list of available models here: [Gemini models](https://ai.google.dev/gemini-api/docs/models)
+You can set environment variables in your shell or define them in a .env file. Example for Unix-based systems:
+```
+export GOOGLE_API_KEY="your-api-key-here"
+export GOOGLE_DEPLOYMENT_NAME="gemini-2.0-flash"
+```
+For the NEBIUS API, you need to set the environment variable `NEBIUS_KEY`.
+If you're using a .env file, make sure to load the file in your application using a package like python-dotenv (load_dotenv()).
 
 ### 📥 Installation
 

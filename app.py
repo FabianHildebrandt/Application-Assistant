@@ -559,10 +559,9 @@ def orchestrator_agent(state: ApplicationAgentState) -> Command[Literal["recruit
     
     if state.phase == "PLAN":
         agent_descriptions = "\n".join([
-            f"{agent.get("title")}\nDescription: {agent.get("description")}"
+            f"{agent.get('title')}\nDescription: {agent.get('description')}"
             for name, agent in state.available_agents.items()
         ])
-
         system_prompt = f"""You are an orchestrator agent, that delegates tasks to specialized agents based on a user query.
 
         Your rules:
