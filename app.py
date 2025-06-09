@@ -1044,7 +1044,7 @@ with gr.Blocks() as application_agent_server:
                     # qa_orchestrator_completed.value = False 
                 else:
                     gr.Markdown("### Call the application assistant to get some results.")
-            output_logs = gr.Textbox(label="Logs/ Console Output")
+            output_logs = gr.Textbox(label="Logs/ Console Output", lines=10)
 
             # def chat_fn(message : str, history : List, state_dict : Dict):
             #     # Call your orchestrator logic

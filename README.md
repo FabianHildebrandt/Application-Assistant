@@ -51,7 +51,7 @@ These agents communicate and collaborate via a central orchestrator.
 ### 🔧 Prerequisites
 - Python installed
 - `pip` installed
-- OpenAI API key (or Google AI API key)
+- Google AI API key -> [Get a free API key](https://ai.google.dev/gemini-api/docs/api-key)
 
 ### 📥 Installation
 
