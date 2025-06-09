@@ -30,7 +30,7 @@ This project demonstrates the power of **multi-agent collaboration** powered by 
 Whether you're writing a compelling cover letter, preparing for an interview, or polishing your CV, **Application Assistant** is here to help.
 
 
-
+[Video Tutorial](https://github.com/FabianHildebrandt/Application-Assistant/tree/main) (available on the GitHub Repo)
 
 https://github.com/user-attachments/assets/4f17e8f7-8993-40bb-9de1-ce72c0cab473
 
